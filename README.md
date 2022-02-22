@@ -1,6 +1,6 @@
 # Pizza Bedlam kata
 
-Diseña el código que te permita modelar el menú del restaurante Pizza Bedlam y las promociones. Utiliza diferentes clases para representar los pro
+Diseña el código que te permita modelar el menú del restaurante Pizza Bedlam y las promociones. Utiliza diferentes clases para representar los productos y su coste.
 
 Cada pizza debe generar un ticket con el precio y el nombre.
 
